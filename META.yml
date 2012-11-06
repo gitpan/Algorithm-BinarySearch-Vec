@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Algorithm-BinarySearch-Vec
-version:            0.04
+version:            0.05
 abstract:           binary search functions for vec() vectors, with fast XS implementations
 author:
     - Bryan Jurish <moocow@cpan.org>
